@@ -157,4 +157,8 @@
         font-size: 6rem;
         font-weight: 100;
     }
+
+    @include respoond(tab-port){
+        
+    }
 }
