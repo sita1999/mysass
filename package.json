@@ -1,0 +1,17 @@
+{
+  "name": "learnsass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live": "^0.1.25-beta.0",
+    "node-sass": "^5.0.0",
+    "server": "^1.0.31"
+  }
+}
